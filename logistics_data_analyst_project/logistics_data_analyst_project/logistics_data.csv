@@ -1,0 +1,31 @@
+order_id,dispatch_date,origin,destination,transport_mode,planned_transit_hours,actual_transit_hours,delay_hours,planned_cost_inr,actual_cost_inr,vehicle_utilization_pct,delivery_status
+ORD1001,2026-09-01,Bhubaneswar,Cuttack,Road,120,118,2,4200,4000,95,On Time
+ORD1002,2026-09-01,Bhubaneswar,Puri,Road,65,78,13,2600,3100,88,Delayed
+ORD1003,2026-09-02,Cuttack,Balasore,Road,180,190,10,5400,5900,91,Delayed
+ORD1004,2026-09-02,Bhubaneswar,Sambalpur,Road,280,270,-10,7200,6900,97,On Time
+ORD1005,2026-09-03,Puri,Bhubaneswar,Road,70,69,-1,2500,2450,96,On Time
+ORD1006,2026-09-03,Cuttack,Berhampur,Road,210,245,35,6000,7100,82,Delayed
+ORD1007,2026-09-04,Bhubaneswar,Angul,Road,150,146,-4,4100,4000,98,On Time
+ORD1008,2026-09-04,Sambalpur,Cuttack,Road,275,300,25,7000,7800,85,Delayed
+ORD1009,2026-09-05,Balasore,Bhubaneswar,Road,175,170,-5,5000,4800,96,On Time
+ORD1010,2026-09-05,Bhubaneswar,Rourkela,Road,330,355,25,8500,9400,84,Delayed
+ORD1011,2026-09-06,Cuttack,Puri,Road,55,53,-2,2100,2050,99,On Time
+ORD1012,2026-09-06,Berhampur,Bhubaneswar,Road,170,185,15,4800,5300,89,Delayed
+ORD1013,2026-09-07,Bhubaneswar,Kendrapara,Road,95,92,-3,3000,2900,97,On Time
+ORD1014,2026-09-07,Angul,Cuttack,Road,155,178,23,4300,5000,86,Delayed
+ORD1015,2026-09-08,Bhubaneswar,Jajpur,Road,105,103,-2,3200,3150,98,On Time
+ORD1016,2026-09-08,Rourkela,Sambalpur,Road,110,125,15,3500,4100,90,Delayed
+ORD1017,2026-09-09,Cuttack,Bhubaneswar,Road,35,34,-1,1500,1450,99,On Time
+ORD1018,2026-09-09,Puri,Balasore,Road,200,220,20,5800,6500,87,Delayed
+ORD1019,2026-09-10,Bhubaneswar,Dhenkanal,Road,110,108,-2,3300,3250,98,On Time
+ORD1020,2026-09-10,Sambalpur,Rourkela,Road,120,142,22,3700,4300,85,Delayed
+ORD1021,2026-09-11,Cuttack,Kendrapara,Road,85,80,-5,2700,2600,97,On Time
+ORD1022,2026-09-11,Bhubaneswar,Koraput,Road,360,390,30,9200,10400,80,Delayed
+ORD1023,2026-09-12,Balasore,Cuttack,Road,145,140,-5,4200,4100,96,On Time
+ORD1024,2026-09-12,Bhubaneswar,Nayagarh,Road,100,104,4,3100,3200,94,On Time
+ORD1025,2026-09-13,Berhampur,Cuttack,Road,230,250,20,6400,7200,86,Delayed
+ORD1026,2026-09-13,Cuttack,Jagatsinghpur,Road,75,72,-3,2400,2350,98,On Time
+ORD1027,2026-09-14,Bhubaneswar,Keonjhar,Road,190,215,25,5500,6300,85,Delayed
+ORD1028,2026-09-14,Puri,Cuttack,Road,65,62,-3,2200,2150,98,On Time
+ORD1029,2026-09-15,Cuttack,Sundargarh,Road,290,315,25,7600,8500,83,Delayed
+ORD1030,2026-09-15,Bhubaneswar,Khurda,Road,45,44,-1,1800,1750,99,On Time

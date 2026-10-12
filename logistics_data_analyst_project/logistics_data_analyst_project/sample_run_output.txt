@@ -1,0 +1,12 @@
+Analysis completed.
+                         metric  value  unit
+                   Total orders  30.00 count
+          On-time delivery rate  50.00     %
+Average delay among late orders  20.47 hours
+ Average cost overrun per order 306.67   INR
+    Average vehicle utilization  91.87     %
+   Duplicate order IDs detected   0.00 count
+
+Files saved in: /mnt/data/logistics_data_analyst_project/outputs
+
+Note: this is synthetic sample data; replace it with approved real data if provided.
